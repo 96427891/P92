@@ -1,0 +1,21 @@
+#body1{
+background-color: yellow;
+}
+
+#btn_login{
+    height: 60px;
+    width: 100px;
+    font-family: comic;
+    border-color: brown;
+    color: yellowgreen;
+    background-color: rgb(236, 12, 12);
+}
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
